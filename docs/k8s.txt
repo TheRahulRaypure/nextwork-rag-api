@@ -1,3 +1,3 @@
-Kubernetes is a  platform used to manage containers at scale.
+Kubernetes is a container orchestration platform used to manage containers at scale.
 
 God Kuber is the Hindu god of wealth, the king of the yakshas, and the guardian of the northern direction, revered for his role in the distribution of riches and prosperity.
