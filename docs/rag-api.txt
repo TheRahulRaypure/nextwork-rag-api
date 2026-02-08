@@ -1,0 +1,8 @@
+An API (Application Programming Interface) is a way for different programs to communicate with each other and answer questions.
+
+A RAG (Retrieval-Augmented Generation) API is an AI-powered API that answers questions by:
+Retrieving relevant information from your knowledge base (documents)
+Augmenting a prompt with that retrieved information
+Generating an answer using an LLM (Large Language Model)
+
+This combines the accuracy of search with the natural language capabilities of AI models!
